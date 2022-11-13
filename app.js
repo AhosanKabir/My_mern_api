@@ -31,8 +31,8 @@ app.use(bodyParser.json());
 
 //mongodb database connection 
 
-//let URI = "mongodb+srv://m001-student:m001-mongodb-basics@sandbox.ukdmeyy.mongodb.net/School?retryWrites=true&w=majority";
-//let OPTION = {user : 'm001-student' , pass : 'm001-mongodb-basics'};
+//let URI = "atlas connection link goes here";
+//let OPTION = {user : '' , pass : ''};
 
 let URI = "mongodb://localhost:27017/school";
 let OPTION = {user: "", pass: ""};
